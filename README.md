@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Degu
-- 👀 I’m interested in egg
-- 🌱 I’m currently learning egg
-- 💞️ I’m looking to collaborate on egg
-- 📫 How to reach me egg
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on stuff
 
 <!---
 Uudeg/Uudeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
